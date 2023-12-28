@@ -4,3 +4,4 @@
 *.tar      binary
 *.tgz      binary
 *.zip      binary
+*.rar      binary
