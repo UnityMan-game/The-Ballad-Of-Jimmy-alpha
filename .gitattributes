@@ -4,4 +4,4 @@
 *.tar      binary
 *.tgz      binary
 *.zip      binary
-*.rar      binary
+*.rar filter=lfs diff=lfs merge=lfs -text
